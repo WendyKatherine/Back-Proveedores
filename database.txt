@@ -1,0 +1,9 @@
+mysql://
+b3844cb0646929 //username
+:
+3ea4e8be //password
+@
+us-cdbr-east-06.cleardb.net //host
+/
+heroku_5c7e33ea9ca6b01 //dbname
+?reconnect=true
